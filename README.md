@@ -16,4 +16,36 @@ This project is a comprehensive website for a college, developed using HTML and 
 - **Images (`images/`)**: A collection of images to visually represent the college and its activities.
 
 ## Project Structure
+college/
+├── about.html
+├── contact.html
+├── css/
+│ ├── style.css
+│ └── ...
+├── images/
+│ ├── logo.png
+│ └── ...
+├── index.html
+├── login.html
+├── register.html
 
+## How to Use
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/college-website.git
+Navigate to the project directory:
+
+sh
+Copy code
+cd college-website/college
+Open the index.html file in your web browser to view the homepage.
+
+Contributions
+Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+Acknowledgements
+Thanks to the resources and tutorials that helped in the development of this project.
