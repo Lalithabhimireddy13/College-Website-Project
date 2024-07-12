@@ -33,7 +33,7 @@ college/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/college-website.git
+   git clone https://github.com/Lalithabhimireddy13/College-Website.Project.git
 Navigate to the project directory:
 
 sh
